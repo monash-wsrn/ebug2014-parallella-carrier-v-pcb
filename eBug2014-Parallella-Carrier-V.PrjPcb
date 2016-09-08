@@ -93,6 +93,10 @@ DocumentUniqueId=
 Path=Libraries\*.*
 IncludeSubFolders=1
 
+[SearchPath2]
+Path=Footprints\*.*
+IncludeSubFolders=1
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
