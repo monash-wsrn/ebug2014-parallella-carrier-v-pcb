@@ -89,6 +89,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for eBug2014-Parallella-Carrier-V\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=Libraries\*.*
 IncludeSubFolders=1
